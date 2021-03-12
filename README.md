@@ -8,7 +8,7 @@ https://expcon-jvmrf1a9j-tobiasschlagenhaufer.vercel.app/
 ## Key Notes
 * Most pages are fully working
 * Music works when clicking on speakers!
-* I didn't have time for the yellow page and perfect slide animation sadly
+* I didn't have time for the yellow (perks) page and perfect slide animation sadly
 
 ## Tech behind it
 
