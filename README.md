@@ -5,6 +5,11 @@ EXP|CON Front-end Next.js App made in TypeScript and React.
 or
 https://expcon-jvmrf1a9j-tobiasschlagenhaufer.vercel.app/
 
+## Key Notes
+* Most pages are fully working
+* Music works when clicking on speakers!
+* I didn't have time for the yellow page and perfect slide animation sadly
+
 ## Tech behind it
 
 * TypeScript
